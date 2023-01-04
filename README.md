@@ -12,7 +12,7 @@
 The present work gives an insight on Pickering emulsions, which are a particular type of emulsions that uses solid colloidal particles as stabilizers and have gained rising popularity in the past decades thanks to their ability to prevent the droplets from coalescing and their non-toxic behavior. 
 A collection of existing mathematical models for the investigation of different aspects regarding this matter is reported in this study, these aspects being: the kinetics of formation of the droplets, and the droplets size.
 
-## Codes:
+## Main Codes:
   - [langevin_random.m](https://github.com/sommaa/pickering_emulsions/blob/main/scripts/langevin_random.m): impulse, adapted, constrained langevin integrator;
   - [postprocessing.py](https://github.com/sommaa/pickering_emulsions/blob/main/scripts/postprocessing.py): langevin_random.m blende postprocessor;
   - [size_particle.m](https://github.com/sommaa/pickering_emulsions/blob/main/scripts/size_droplet.m): model for the prediction of the droplet diameter in a pickering emulsion for oppositely charged particles.
