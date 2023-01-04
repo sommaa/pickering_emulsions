@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/grouptwentynine/Pickering_emulsions">
-    <img src="PE_image.png" alt="Logo" width="350" height="240">
+    <img src="https://user-images.githubusercontent.com/120776791/210553577-adba89f7-0708-44ee-bd32-f343b6eb180c.png" alt="Logo" width="350" height="240">
   </a>
       <br />
     <h1 align="center">Pickering emulsions models</h3>
