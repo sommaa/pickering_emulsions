@@ -19,6 +19,10 @@ A collection of existing mathematical models for the investigation of different 
 
 ## Authors:
 - Andrea Somma
+- Elvira Kazimova
+- Giovanni Tomaciello
+- Giovanni Madella
+- Sabrina Ulivelli
 
 ## User guide:
 Download the whole folder as a .zip file and extract it entirely to let matlab load experimental data tables or clone the repo with:
