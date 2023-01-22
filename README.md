@@ -14,7 +14,7 @@ A collection of existing mathematical models for the investigation of different 
 
 ## Main Codes:
   - [langevin_random.m](https://github.com/sommaa/pickering_emulsions/blob/main/scripts/langevin_random.m): impulse, adapted, constrained langevin integrator;
-  - [postprocessing.py](https://github.com/sommaa/pickering_emulsions/blob/main/scripts/postprocessing.py): langevin_random.m blende postprocessor;
+  - [postprocessing.py](https://github.com/sommaa/pickering_emulsions/blob/main/scripts/postprocessing.py): langevin_random.m blender postprocessor;
   - [size_particle.m](https://github.com/sommaa/pickering_emulsions/blob/main/scripts/size_droplet.m): model for the prediction of the droplet diameter in a pickering emulsion for oppositely charged particles.
 
 ## Authors:
