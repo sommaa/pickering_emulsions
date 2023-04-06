@@ -1,3 +1,11 @@
+<div align="center">
+
+![MATLAB](https://img.shields.io/badge/MATLAB-e86e05?style=for-the-badge&logo=Octave&logoColor=white)
+![Py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+</div>
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -5,7 +13,7 @@
     <img src="https://user-images.githubusercontent.com/120776791/210553577-adba89f7-0708-44ee-bd32-f343b6eb180c.png" alt="Logo" width="350" height="240">
   </a>
       <br />
-    <h3 align="center">Pickering emulsions models</h3>
+    <h1 align="center">Pickering emulsions models</h1>
 </div>
 
 <div align="center">
