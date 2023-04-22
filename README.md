@@ -32,7 +32,7 @@ A collection of existing mathematical models for the investigation of different 
   - [size_particle.m](https://github.com/sommaa/pickering_emulsions/blob/main/scripts/size_droplet.m): model for the prediction of the droplet diameter in a pickering emulsion for oppositely charged particles.
 
 ## Authors:
-- Andrea Somma (Main Coder)
+- Andrea Somma
 - Elvira Kazimova
 - Giovanni Tomaciello
 - Giovanni Madella
